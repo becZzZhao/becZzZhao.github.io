@@ -99,10 +99,10 @@ author:
   location         : "Toronto, ON, CA"
   email            :
   links:
-    - label: "Email"
+    - label: "Email: beczhaozmy@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "beczhaozmy@gmail.com"
-    - label: "LinkedIn"
+      # url: "beczhaozmy@gmail.com"
+    - label: "LinkedIn: https://www.linkedin.com/in/mengyue-rebecca-zhao-a15bb8111/"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mengyue-rebecca-zhao-a15bb8111/"
     - label: "Twitter"
@@ -111,7 +111,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "GitHub: https://beczzzhao.github.io/"
       icon: "fab fa-github"
       url: "https://beczzzhao.github.io/"
     - label: "Instagram"
