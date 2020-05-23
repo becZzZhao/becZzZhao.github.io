@@ -97,11 +97,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aspiring Data Scientist"
   location         : "Toronto, ON, CA"
-  email            :
+  email            : "beczhaozmy@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      text: "beczhaozmy@gmail.com"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mengyue-rebecca-zhao-a15bb8111/"
