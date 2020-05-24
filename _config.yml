@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Mengyue Zhao"
-  avatar           : "profilePic.jpg"
+  avatar           : # "profilePic.jpg"
   bio              : "Aspiring Data Scientist"
   location         : "Toronto, ON, CA"
   email            : "beczhaozmy@gmail.com"
